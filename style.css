@@ -36,6 +36,8 @@ p {
   font-size: 1.6rem;
   line-height: 1.5;
 }
+
+
 header {
   text-align: center;
   color: #fff;
@@ -110,6 +112,8 @@ form button:hover {
   }
   
 }
+
+
 
 .close {
   position: absolute;
